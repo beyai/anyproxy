@@ -1,0 +1,10 @@
+{
+  "name": "anyproxy",
+  "description": "anyproxy",
+  "env": {
+    "METHOD": {
+    },
+    "KEY": {
+    }
+  }
+}
